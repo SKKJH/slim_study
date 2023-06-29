@@ -1,0 +1,24 @@
+32bits 
+Accuracy : 0.429
+Precision : 0.429
+24bits 
+Accuracy : 0.429
+Precision : 0.429
+16bits 
+Accuracy : 0.429
+Precision : 0.429
+12bits 
+Accuracy : 0.4234
+Precision : 0.4234
+11bits 
+Accuracy : 0.427
+Precision : 0.427
+10bits 
+Accuracy : 0.365
+Precision : 0.365
+9bits 
+Accuracy : 0.2378
+Precision : 0.2378
+8bits 
+Accuracy : 0.0014
+Precision : 0.0014
